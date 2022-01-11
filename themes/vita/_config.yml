@@ -23,10 +23,10 @@ resume:
   profiles:
     - icon: fa-linkedin
       text: your-linkedin
-      link: https://linkedin.com/
+      link: https://www.linkedin.com/in/xing-wenfeng-87a24290
     - icon: fa-github
       text: your-github
-      link: https://github.com/
+      link: https://github.com/bearfighting
   overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   #   level: beginner, intermediate, advanced, master
   skills:
