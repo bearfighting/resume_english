@@ -30,15 +30,15 @@ resume:
   overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   #   level: beginner, intermediate, advanced, master
   skills:
-    - title: Skill Group 1
-      level: advanced
-      items: [Lorem, Ipsum, Dolor, Sit, Amet]
-    - title: Skill Group 2
+    - title: Frontend Techs
       level: intermediate
-      items: [Consectetur, Adipiscing, Elit]
-    - title: Skill Group 3
+      items: [React, Webpack, Javascript, Sit, Amet]
+    - title: Backend Techs
+      level: intermediate
+      items: [Java, Node.js, Express.js, Spring Boot]
+    - title: Developement Tools
       level: beginner
-      items: [Sed do, Eiusmod, Tempor, Incididunt]
+      items: [Linux, Eiusmod, Tempor, Incididunt]
   experience:
     - position: Job Title 1
       duration: Apr 2016 - Now
@@ -79,10 +79,11 @@ resume:
       major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 # Showcase your work
   projects:
-  - title: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Translator SCSS to CSS
+    description: A basic translator from SCSS to CSS developed on Java 
     duration: Jul 2011 - Dec 2012
     contribution: Contributor.
+    website: https://gitlab.info.uqam.ca/xing.wenfeng/scss_compiler
   - title: Working Manager System
     description: A web project to facilicite the everyday work including a Notion like workspace based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
     duration: Fev 2021 - Mai 2021
