@@ -83,10 +83,11 @@ resume:
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     duration: Jul 2011 - Dec 2012
     contribution: Contributor.
-  - title: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - title: Working Manager System
+    description: A web project based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
     duration: Aug 2007 - Jun 2011
     contribution: Creator and maintainer.
+    url: https://gitlab.info.uqam.ca/xing.wenfeng/inm_5151
 # Langguages Known 
 # proficiency: beginner, intermediate, advanced, master, fluent, native speaker
   languages:
