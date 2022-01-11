@@ -67,16 +67,16 @@ resume:
   
       # Education
   education:
-    - institution: Your First University
-      course: Masters Information Technology
-      duration: Jul 2011 - Dec 2012
-      location: Consectetur adipiscing elit
-      major: Lorem ipsum dolor sit amet
-    - institution: Your Second University
-      course: Masters Information Technology
-      duration: Aug 2007 - Jun 2011
+    - institution: University of Quebec in Montreal (UQAM)
+      course: Bachelor of Applied Science ()
+      duration: Jun 2018 - Dec 2021
+      location: Case postale 8888, succ. Centre-ville Montréal (Québec) H3C 3P8 Canada
+      major: Computer sicence and engineering Co-op
+    - institution: Hebei University
+      course: bachelor of arts
+      duration: Sep 2003 - Jul 2007
       location: Ut enim ad minim veniam
-      major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+      major: French language and Litterature
 # Showcase your work
   projects:
   - title: Translator SCSS to CSS
