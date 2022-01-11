@@ -1,18 +1,18 @@
-title: Reassume
+title: CV
 resume:
-  name: YOUR NAME
-  jobtitle: Your Job Title
+  name: Xing, Wenfeng
+  jobtitle: Software Developer
   location:
     - key: address
-      value: Your Address
+      value: 5555 Coolbrook
     - key: postalCode
-      value: '0123654'
+      value: H3X 2L6
     - key: city
-      value: Your City
+      value: Montreal
     - key: region
-      value: State/Region
+      value: Quebec
     - key: countryCode
-      value: US
+      value: CAD
   contact:
     - icon: fa-external-link
       text: your-website.com
