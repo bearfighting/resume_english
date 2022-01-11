@@ -110,7 +110,7 @@
 
     <section class="section">
         <header>
-            <h2 class="section-title">Education <span class="item-count">(1)</span></h2>
+            <h2 class="section-title">Education <span class="item-count"></span></h2>
         </header>
 
         <section id="education">
