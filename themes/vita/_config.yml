@@ -15,9 +15,9 @@ resume:
       value: CAD
   contact:
     - icon: fa-external-link
-      text: your-website.com
+      text: https://bearfighting.github.io/resume_english/
     - icon: fa-envelope
-      text: youremail@example.com
+      text: florentxingwenfeng@gmail.com
     - icon: fa-phone-square
       text: your-phone-num
   profiles:
