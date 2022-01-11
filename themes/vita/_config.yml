@@ -12,7 +12,7 @@ resume:
     - key: region
       value: Quebec
     - key: countryCode
-      value: CAD
+      value: Canada
   contact:
     - icon: fa-external-link
       text: https://bearfighting.github.io/resume_english/
@@ -75,7 +75,7 @@ resume:
     - institution: Hebei University
       course: bachelor of arts
       duration: Sep 2003 - Jul 2007
-      location: Ut enim ad minim veniam
+      location: No. 180 Wusi Dong Road, Lian Chi District, Baoding City, Hebei Province, China Post Code 071002
       major: French language and Litterature
 # Showcase your work
   projects:
