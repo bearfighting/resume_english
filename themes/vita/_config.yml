@@ -83,12 +83,12 @@ resume:
     description: A basic translator from SCSS to CSS developed on Java 
     duration: Jul 2011 - Dec 2012
     contribution: Contributor.
-    website: https://gitlab.info.uqam.ca/xing.wenfeng/scss_compiler
+    website: https://github.com/bearfighting/scss_translator
   - title: Working Manager System
     description: A web project to facilicite the everyday work including a Notion like workspace based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
     duration: Fev 2021 - Mai 2021
     contribution: Creator and maintainer.
-    website: https://gitlab.info.uqam.ca/xing.wenfeng/inm_5151
+    website: https://github.com/bearfighting/Working-Management-System
 # Langguages Known 
 # proficiency: beginner, intermediate, advanced, master, fluent, native speaker
   languages:
