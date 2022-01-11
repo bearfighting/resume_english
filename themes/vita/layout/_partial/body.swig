@@ -127,7 +127,7 @@
                         <div class="date">
                             {{item.duration}}
                         </div>
-                        <div class="course">
+                        <div class="summary">
                             {{item.major}}
                         </div>
                     </div>
