@@ -90,7 +90,9 @@ resume:
 # Langguages Known 
 # proficiency: beginner, intermediate, advanced, master, fluent, native speaker
   languages:
-  - name: English
+  - name: French
     proficiency: fluent
-  - name: Hindi
-    proficiency: native speaker
+  - name: English
+    proficiency: work proficiency
+  - name: Chinese
+    proficiency: native Speaker
