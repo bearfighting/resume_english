@@ -163,9 +163,10 @@
                             {{item.duration}}
                         </div>
                     </div>
-
                 </header>
-
+                <span class="website">
+                    <a target="_blank" href="{{item.website}}">{{item.website}}</a>
+                </span>
                 <div class="item">
                     <div class="summary">
                         <p></p>
