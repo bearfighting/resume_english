@@ -84,8 +84,8 @@ resume:
     duration: Jul 2011 - Dec 2012
     contribution: Contributor.
   - title: Working Manager System
-    description: A web project based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
-    duration: Aug 2007 - Jun 2011
+    description: A web project to facilicite the everyday work including a Notion like workspace based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
+    duration: Fev 2021 - Mai 2021
     contribution: Creator and maintainer.
     website: https://gitlab.info.uqam.ca/xing.wenfeng/inm_5151
 # Langguages Known 
