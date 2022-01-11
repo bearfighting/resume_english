@@ -40,11 +40,11 @@ resume:
       level: beginner
       items: [Linux, Eiusmod, Tempor, Incididunt]
   experience:
-    - position: Job Title 1
-      duration: Apr 2016 - Now
-      company: Your 1st, Inc.
-      website: website.com
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - position: Fullstack Software Developer
+      duration: Mai 2019 - Dec 2021
+      company: Service Infomatique UQAM
+      website: https://uqam.ca/
+      description: a whole new project for modernizing 
       hilights: [
         Optimized an algorithm that holds the current world record for Weisman Scores,
         Hilight 2,
