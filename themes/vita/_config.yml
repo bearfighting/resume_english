@@ -82,7 +82,7 @@ resume:
   - title: Translator SCSS to CSS
     description: A basic translator from SCSS to CSS developed on Java 
     duration: Jul 2011 - Dec 2012
-    contribution: Contributor.
+    contribution: Creator and maintainer.
     website: https://github.com/bearfighting/scss_translator
   - title: Working Manager System
     description: A web project to facilicite the everyday work including a Notion like workspace based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
