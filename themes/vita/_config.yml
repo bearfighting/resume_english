@@ -30,15 +30,18 @@ resume:
   overview: As a new undergraduated from Computer Science and Engineering Major, but a qualified Software developer with 2 years of internship and part-time working experiences in fullstack web developement etc. I have a strong interest in finding the best solution with the right technologies.  
   #   level: beginner, intermediate, advanced, master
   skills:
-    - title: Frontend Techs
+    - title: Languages
+      level: advanced
+      items: [Javascript/Typescript/Node.js, Java]
+    - title: Frameworks
       level: intermediate
-      items: [Javascript, React, ]
-    - title: Backend Techs
-      level: intermediate
-      items: [Java, Node.js, Express.js, Spring Boot]
+      items: [React, Express.js, Spring Boot]
     - title: Developement Tools
-      level: beginner
-      items: [Linux, , Tempor, Incididunt]
+      level: Intermediate
+      items: [Linux, Git, Jira]
+    - title: Others
+      level: Intermediate
+      items: [Angular, Vue, Postgresql, Mysql, .Net]
   experience:
     - position: Fullstack Software Developer internship and part-time
       duration: Mai 2020 - Dec 2021
