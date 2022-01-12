@@ -37,10 +37,10 @@ resume:
       level: intermediate
       items: [React, Express.js, Spring Boot]
     - title: Developement Tools
-      level: Intermediate
+      level: intermediate
       items: [Linux, Git, Jira]
     - title: Others
-      level: Intermediate
+      level: intermediate
       items: [Angular, Vue, Postgresql, Mysql, .Net]
   experience:
     - position: Fullstack Software Developer internship and part-time
