@@ -27,18 +27,18 @@ resume:
     - icon: fa-github
       text: github
       link: https://github.com/bearfighting
-  overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  overview: As a new undergraduated from Computer Science and Engineering Major, but a qualified Software developer with 2 years of internship and part-time working experiences in fullstack web developement etc. I have a strong interest in finding the best solution with the right technologies.  
   #   level: beginner, intermediate, advanced, master
   skills:
     - title: Frontend Techs
       level: intermediate
-      items: [React, Webpack, Javascript, Sit, Amet]
+      items: [Javascript, React, ]
     - title: Backend Techs
       level: intermediate
       items: [Java, Node.js, Express.js, Spring Boot]
     - title: Developement Tools
       level: beginner
-      items: [Linux, Eiusmod, Tempor, Incididunt]
+      items: [Linux, , Tempor, Incididunt]
   experience:
     - position: Fullstack Software Developer internship and part-time
       duration: Mai 2020 - Dec 2021
